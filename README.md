@@ -2,13 +2,13 @@
 Welcome to the Java Beginner's Guide by Herbert Schildt Code Examples repository. This repository contains all the Java programs from the book "Java Beginner's Guide" by Herbert Schildt. You can use this repository to access and run the code examples provided in the book.
 ![Java Programming Language Logo](https://favbulous.com/wp-content/uploads/2016/06/java-logo.png)
 ## Table of Contents
-* [Introduction](##Introduction)
-* [Repository Content](##RepositoryContent)
-* [Getting Started](##GettingStarted)
-* [Usage](##Usage)
-* [Contributing](##Contributing)
-* [Prerequisites](##Prerequisites)
-* [License](##License)
+* [Introduction](#Introduction)
+* [Repository Content](#RepositoryContent)
+* [Getting Started](#GettingStarted)
+* [Usage](#Usage)
+* [Contributing](#Contributing)
+* [Prerequisites](#Prerequisites)
+* [License](#License)
 ## Introduction
 If you've been reading "Java Beginner's Guide" by Herbert Schildt and want to run the code examples in the book, this repository is for you. It provides a convenient way to access and execute the code samples without having to type them out manually.
 ## Repository Contents
